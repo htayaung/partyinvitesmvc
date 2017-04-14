@@ -33,6 +33,7 @@ namespace PartyInvites.Controllers
             }
             else
             {
+                // TODO: model state is not valid
                 return View();
             }
         }
